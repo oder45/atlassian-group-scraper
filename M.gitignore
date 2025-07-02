@@ -1,0 +1,13 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+*.xlsx
+chromedriver.exe
+.env
+.idea/
+.vscode/
